@@ -1,0 +1,12 @@
+# Mac OS-filer
+.DS_Store
+
+# Zip-arkiv
+*.zip
+
+# Editor/IDE-filer
+.vscode/
+.idea/
+
+# Tillfälliga kataloger
+node_modules/
